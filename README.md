@@ -370,19 +370,21 @@ Verification C[0][0] = 4000.00
 
 ## Sequential
 
-![Sequential Result](sequential/results/seq-output1.jpeg)
+<img width="1047" height="667" alt="seq-output1" src="https://github.com/user-attachments/assets/0e9af0b0-2f54-4dc3-b4d7-7ac4e07d658a" />
+
 
 ## OpenMP
 
-![OpenMP Result](openmp/results/openmp-output.png)
+<img width="1668" height="943" alt="final_output (3)" src="https://github.com/user-attachments/assets/dc7b753c-01e7-4b4b-8f67-d8b7567ef707" />
 
 ## MPI
 
-![MPI Result](mpi/results/final_output.png)
+<img width="1492" height="760" alt="final_output (2)" src="https://github.com/user-attachments/assets/02b5cba6-de68-4a8a-9ec1-2068de09283d" />
 
 ## CUDA
 
-![CUDA Result](cuda/results/final_output.png)
+<img width="590" height="302" alt="final_output (1)" src="https://github.com/user-attachments/assets/03c55ae8-8355-4950-9f1c-b659c7623885" />
+
 
 ---
 
